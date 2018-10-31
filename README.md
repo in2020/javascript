@@ -13,3 +13,4 @@ array, string와 같이 직접적으로 메모리를 점유하고 있는 JavaScr
 Retained Size
 GC이후 남겨진 메모리의 크기. 즉, 실제 사용중인 JS Heap의 크기  
 ```
+  - Timeline(현재 Performance panel) JS Heap이 계단형, Nodes가 계단형 JS Heap이 Memory Leak, Nodes가 Memory Leak
